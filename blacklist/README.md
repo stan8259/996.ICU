@@ -262,3 +262,7 @@
 |北京|澎思智能|2019年7月|996|[微信截图](https://github.com/wangleipes/996.ICU/blob/master/blacklist/img/%E6%BE%8E%E6%80%9D.png)|
 |南京|[中设设计集团子公司纬信工程咨询公司](http://www.js-wx.com.cn/lxwm.asp)|自公司成立|领导明令8106，工作前三年无年假|[群聊截图1](img/道桥部群聊截图.jpg)，[群聊截图2](img/道桥部群聊截图1.jpg)，[群聊截图3](img/道桥部群聊截图2.jpg)，[签到表7.31](img/签到表7.31.jpg)，[签到表8.1](img/签到表8.1.jpg)|
 |北京|畅捷通信息技术股份有限公司|2019年8月,9月|领导明令996, 每周二四固定加班|[邮件截图](img/畅捷通-996-mail-m.jpg)，[群聊截图](img/畅捷通-996-m.jpg)|
+|深圳|怡亚通子公司宇商金融科技|经常加班,已加班评选绩效 995  群聊截图 ![image](https://user-images.githubusercontent.com/24429755/110091726-bac55c80-7dd3-11eb-996e-99a8f0f507f9.png) ![image](https://user-images.githubusercontent.com/24429755/110091757-c3b62e00-7dd3-11eb-9d6b-2b6edcff06cc.png) ![image](https://user-images.githubusercontent.com/24429755/110091769-c749b500-7dd3-11eb-8945-6f3e2c84e204.png)
+
+
+
